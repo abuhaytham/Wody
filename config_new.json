@@ -1,0 +1,55 @@
+{
+    "cluster_centers": [
+        [
+            300,
+            900,
+            200,
+            600,
+            500
+        ],
+        [
+            200,
+            600,
+            150,
+            400,
+            300
+        ],
+        [
+            100,
+            300,
+            80,
+            200,
+            100
+        ]
+    ],
+    "recommended_wods": {
+        "0": {
+            "Theme": "Leg Day",
+            "Warm-Up": "10 minutes light cardio (e.g., jogging) followed by dynamic leg stretches.",
+            "Strength": "3 sets of 5 Back Squats with light weight to build foundational leg strength.",
+            "WOD": "AMRAP 10 minutes: 5 Push-Ups, 10 Air Squats, 15 Single Unders (jump rope)"
+        },
+        "1": {
+            "Theme": "Back & Core",
+            "Warm-Up": "10 minutes rowing and mobility exercises for the back.",
+            "Strength": "4 sets of 6 Deadlifts focusing on form and controlled motion.",
+            "WOD": "For Time: 3 Rounds of 10 Pull-Ups, 20 GHD Sit-Ups, 30 Double Unders (jump rope)"
+        },
+        "2": {
+            "Theme": "Upper Body Strength",
+            "Warm-Up": "10 minutes of shoulder mobility drills and band work.",
+            "Strength": "5 sets of 5 Bench Press with progressive overload.",
+            "WOD": "EMOM 12 minutes: 3 Power Cleans + 12 Push-Ups (goal: maintain consistent pacing)"
+        }
+    },
+    "themes": [
+        "Leg Day",
+        "Back & Core",
+        "Upper Body Strength",
+        "Cardio Blast",
+        "Full Body",
+        "Olympic Lifting",
+        "Gymnastics Skills",
+        "Strongman"
+    ]
+}
